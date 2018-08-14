@@ -1,0 +1,24 @@
+body 
+{display:inline-block;
+	background-color: powderblue;
+}
+
+ul li
+{
+display: inline-block;
+float:left;
+ margin:auto;
+ padding:0;
+ 
+ }
+
+
+
+
+}
+ 
+
+ #bloc_page
+ {
+ 	width: 100px;
+ 	height: 200px;
